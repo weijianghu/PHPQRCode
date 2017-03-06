@@ -9,7 +9,7 @@ Add the required module to your `composer.json` file:
     {
         "require": {
             ...
-            "weijianghu/phpqrcode": "1.0.1"
+            "weijianghu/phpqrcode": "1.0.0"
             ...
         }
     }
